@@ -18,7 +18,7 @@ namespace EDDemo.Estructuras_No_Lineales
             this.Izq = null;
             this.Der = null;
 
-            // se hizo en clase xd
+            // se hizo en clase 
         }
     }
 }
